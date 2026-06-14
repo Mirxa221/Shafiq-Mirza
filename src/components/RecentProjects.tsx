@@ -1,8 +1,8 @@
 import { motion, useInView } from "motion/react";
 import { useRef } from "react";
 import rehmanMirzaCoImg from "@/assets/rehman-co.jpg";
-import teamDeskProImg from "@/assets/team-desk-pro.jpg";
-import unsentLetterImg from "@/assets/unsent-letter.jpg";
+import teamDeskProImg from "@/assets/team-desk-pro.JPG"; 
+import unsentLetterImg from "@/assets/unsent-letter.JPG";
 import { SplitWords } from "@/components/SplitWords";
 import { SectionHead } from "@/components/SectionHead";
 import { recentProjects, ease } from "@/lib/constants";
